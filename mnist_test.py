@@ -4,7 +4,9 @@ Created on Thu Sep  5 16:25:33 2019
 
 @author: zhang
 """
-
+'''
+#官网例子
+'''
 import tensorflow as tf
 
 mnist = tf.keras.datasets.mnist

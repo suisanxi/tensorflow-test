@@ -4,7 +4,7 @@
 # @Time: 2019/9/7 14:30
 # @File: model_save301.py
 # @Software: PyCharm
-# desc: 模型保存及使用例子
+# desc: 模型参数保存及使用例子
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 import tensorflow as tf

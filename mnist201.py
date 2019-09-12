@@ -28,6 +28,7 @@ class MLP(tf.keras.Model):
         self.dense1 = tf.keras.layers.Dense(units=100, activation=tf.nn.relu)
         self.dense2 = tf.keras.layers.Dense(units=10)
 
+    @tf.function
     def call(self, inputs):         # [batch_size, 28, 28, 1]
         x = self.flatten(inputs)    # [batch_size, 784]
         x = self.dense1(x)          # [batch_size, 100]

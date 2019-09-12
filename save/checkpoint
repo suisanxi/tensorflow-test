@@ -1,0 +1,10 @@
+model_checkpoint_path: "model-1100"
+all_model_checkpoint_paths: "model-800"
+all_model_checkpoint_paths: "model-900"
+all_model_checkpoint_paths: "model-1000"
+all_model_checkpoint_paths: "model-1100"
+all_model_checkpoint_timestamps: 1567842508.2153614
+all_model_checkpoint_timestamps: 1567842509.4575539
+all_model_checkpoint_timestamps: 1567842510.749949
+all_model_checkpoint_timestamps: 1567842511.9904978
+last_preserved_timestamp: 1567838105.8946786
